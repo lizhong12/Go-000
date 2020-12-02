@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"studygolang/demo/service"
+	"service"
 )
 
 func main()  {
