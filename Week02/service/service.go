@@ -1,6 +1,6 @@
 package service
 
-import "studygolang/demo/dao"
+import "dao"
 
 func Service() error {
 	return dao.Dao()
